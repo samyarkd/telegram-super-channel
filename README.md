@@ -11,6 +11,7 @@ cd telegram-super-channel
 apt install python python3
 
 pip3 install -U pyrogram```
+
 # run
 
 set you api id and api hash in KEY.py ---> https://my.telegram.org/auth?to=apps
