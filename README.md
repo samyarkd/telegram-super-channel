@@ -18,7 +18,7 @@ pip3 install -U pyrogram
 
 set you api id and api hash in KEY.py ---> https://my.telegram.org/auth?to=apps
 
-and then in KEY.py set you channel id 'ch_id' that going to be supergrup
+and then in KEY.py set your channel id ```ch_id``` that going to be supergrup
 
 ``python3 TSC.py``
 
