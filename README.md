@@ -13,6 +13,9 @@ apt install python python3
 
 pip3 install -U pyrogram
 ```
+
+aingle code :
+
 ```apt update && apt upgrade && apt install git python python3 && git clone https://github.com/samyarkd/telegram-super-channel.git && cd telegram-super-channel && pip3 install -U pyrogram```
 
 # run
