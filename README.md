@@ -28,4 +28,4 @@ and then in KEY.py set your channel id ```ch_id``` that going to be super channe
 
 # Video 
 
-youtube : !
+youtube : https://youtu.be/Y2UCsnH2H0M
