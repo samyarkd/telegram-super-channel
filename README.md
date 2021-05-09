@@ -4,7 +4,7 @@ this script allow you to send all message updates from channels you are subbed t
 # installing
 
 
-```bash
+```shell
 git clone https://github.com/samyarkd/telegram-super-channel.git
 
 cd telegram-super-channel
